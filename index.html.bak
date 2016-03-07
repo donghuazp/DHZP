@@ -1,0 +1,90 @@
+<!DOCTYPE html> 
+<html>
+
+<head>
+  <title>东华帐篷厂</title>
+  <meta name="description" content="website description" />
+  <meta name="keywords" content="website keywords, website keywords" />
+  <meta http-equiv="content-type" content="text/html; charset=gb2312 " />
+  <link rel="stylesheet" type="text/css" href="css/style.css" />
+  <!-- modernizr enables HTML5 elements and feature detects -->
+  <script type="text/javascript" src="js/modernizr-1.5.min.js"></script>
+</head>
+
+<body>
+  <div id="main">		
+
+    <header>
+	  <div id="strapline">
+	    <div id="welcome_slogan">
+	      <h3>东华帐篷厂</h3> 
+		   </div><!--close welcome_slogan-->
+      </div><!--close strapline-->	  
+	  <nav>
+	    </div><!--close menubar-->	
+      </nav>
+    </header>
+    
+ <div id="slideshow_container">  
+	  <div class="slideshow">
+	    <ul class="slideshow">
+          <li class="show"><img width="940" height="250" src="images/home_1.jpg" /></li>
+          <li><img width="940" height="250" src="images/home_2.jpg" /></li>
+		  <li><img width="940" height="250" src="images/home_3.jpg" /></li>
+		  <li><img width="940" height="250" src="images/home_4.jpg" /></li>
+		  <li><img width="940" height="250" src="images/home_6.jpg" /></li>
+        </ul> 
+	  </div><!--close slideshow-->  	
+	</div><!--close slideshow_container-->   
+
+    <div id="site_content">		  
+	  <div class="sidebar_container">       
+		<div class="sidebar">
+          <div class="sidebar_item">
+            <h2>本店郑重承诺</h2>
+            <p>诚信为本，质量为根！</p>
+          </div><!--close sidebar_item--> 
+        </div><!--close sidebar-->     		
+		<div class="sidebar">
+          <div class="sidebar_item">
+            <h2>联系方式</h2>
+            <h3>订货电话：13904521686（徐女士）</h3>
+            <h3>传真：0452-2521567</h3>
+            <h3>售后电话：13604529788（傅先生）</h3>         
+		  </div><!--close sidebar_item--> 
+        </div><!--close sidebar-->
+		<div class="sidebar">
+          <div class="sidebar_item">
+            <h3>经营方式</h3>
+            <p>各种中高档帐篷、苫布、大棚保温被、棉门帘、车衣、鸡粪传送带等</p>
+			</div><!--close sidebar_item--> 
+        </div><!--close sidebar-->  		
+        
+       </div><!--close sidebar_container-->	
+	   
+	    <div id="content">
+        <div class="content_item">
+		  <h1>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp东华帐篷厂始建于1983年，位于黑龙江名城齐齐哈尔市，历史悠久，发展迅速，诚信为本，质量为根。</h1> 
+          
+		  <h1>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp本厂所代理的“昌力”牌PVC布使用寿命4—7年，以防冻、防风化、无污染、不漏水等特点，一直受到好评；“金潮”牌南韩苫布以一块抵两块的结实度及防晒度迅速蔓延市场；品牌刀刮布更是锦上添花；我厂帐篷结实耐用，深受林业局、地质队基建部门青睐。
+		  </h1>
+		  <h2>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp本厂为回馈广大用户30多年的支持，所有产品一律低价销售，不同产品均提供相应保质期限。
+          </h2>   		
+		 <h1><b>公司地址及图示:</b><br>黑龙江省齐齐哈尔市铁峰区曙光南大街31号</h1> 
+		 <a href="http://map.qq.com/#pano=16021053151103130339900&heading=0&pitch=0&zoom=1"><img width="660" height="500" src="images/map.png" /></a> 
+		</div><!--close content_item-->
+      </div><!--close content-->   
+	</div><!--close site_content-->  	  	
+
+    <footer>
+	   Copyright @ 2015-2016 Donghua Corporation All rights reserved. 
+    </footer>
+	
+  </div><!--close main-->
+  
+  <!-- javascript at the bottom for fast page loading -->
+  <script type="text/javascript" src="js/jquery.min.js"></script>
+  <script type="text/javascript" src="js/image_slide.js"></script>
+  
+</body>
+</html>
